@@ -1,0 +1,21 @@
+{
+    "name": "alien-invasion",
+    "displayName": "alien-invasion",
+    "description": "alien invasion theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "alien invasion",
+                "uiTheme": "vs-dark",
+                "path": "./themes/alien invasion-color-theme.json"
+            }
+        ]
+    }
+}
