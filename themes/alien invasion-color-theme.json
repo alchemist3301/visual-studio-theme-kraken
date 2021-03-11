@@ -2,10 +2,10 @@
 	"name": "alien invasion",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#100a2e",
+		"editor.background": "#26003c",
 		"editor.foreground": "#6b8eff",
 		"activityBarBadge.background": "#100a2e",
-		"sideBarTitle.foreground": "#BBFF41"
+		"sideBarTitle.foreground": "#d3ff817d"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#59755f"
+				"foreground": "#b9e682"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#7bff4a"
 			}
 		},
 		{
@@ -454,7 +454,7 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#4466ff"
+				"foreground": "#9bff44"
 			}
 		},
 		{
@@ -520,7 +520,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#4466ff"
+				"foreground": "#a2ff44"
 			}
 		},
 		{
@@ -603,7 +603,7 @@
 				"variable.language.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#4466ff"
+				"foreground": "#8cff44"
 			}
 		},
 		{
@@ -613,7 +613,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#4466ff"
+				"foreground": "#44ecff"
 			}
 		},
 		{
